@@ -8,14 +8,14 @@ To perform Multivariate EDA on the given data set.
 * The primary aim with exploratory analysis is to examine the data for distribution, outliers and
  anomalies to direct specific testing of your hypothesis.
 ## Algorithm:
-#### STEP 1: Import the built libraries required to perform EDA and outlier removal.<br>
-#### STEP 2: Read the given csv file<br>
-#### STEP 3:Convert the file into a dataframe and get information of the data.<br>
-#### STEP 4:Return the objects containing counts of unique values using (value_counts()).<br>
-#### STEP 5:Plot the counts in the form of Histogram or Bar Graph.<br>
-#### STEP 6:Use seaborn the bar graph comparison of data can be viewed.<br>
-#### STEP 7:Find the pairwise correlation of all columns in the dataframe.corr()<br>
-#### STEP 8:Save the final data set into the file<br>
+* STEP 1: Import the built libraries required to perform EDA and  outlier removal.<br>
+* STEP 2: Read the given csv file<br>
+* STEP 3: Convert the file into a dataframe and get information of the data.<br>
+* STEP 4: Return the objects containing counts of unique values using (value_counts()).<br>
+* STEP 5: Plot the counts in the form of Histogram or Bar Graph.<br>
+* STEP 6: Use seaborn the bar graph comparison of data can be viewed.<br>
+* STEP 7: Find the pairwise correlation of all columns in the dataframe.corr()<br>
+* STEP 8: Save the final data set into the file<br>
 ## Program:
 * ### Diabetes.csv
 ```
