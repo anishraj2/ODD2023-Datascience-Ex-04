@@ -1,4 +1,4 @@
-# EX-04 Multivariate Analysis
+# Ex 04 Multivariate-Analysis
 ## Aim:
 To perform Multivariate EDA on the given data set.
 ## Explanation:
